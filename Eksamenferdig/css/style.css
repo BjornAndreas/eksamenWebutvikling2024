@@ -76,7 +76,6 @@ body {
 }
 
 /* Main*/
-
 #banner {
     background-color: #c4c4c4;
     text-align: right;
@@ -412,7 +411,6 @@ hr {
 }
 
 /* Global Footer*/
-
 .global-footer section {
     margin-bottom: 2rem;
 }
